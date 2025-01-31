@@ -517,6 +517,11 @@ a {
     padding: 0;
     margin: 0;
   }
+
+  .header__container_down_main-buttons {
+    gap: 50px;
+    /* margin-right: 132.5px; */
+  }
 }
 
 @media (width <= 1400px) {
